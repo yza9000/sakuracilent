@@ -2,7 +2,7 @@ local player = game.Players.LocalPlayer
 
 if(game.PlaceId == 6872265039) then
       print("Bedwars detected! Starting up Sakura beta")
-      print("Sakura Version: 0.0.1, Beta build")]
+      print("Sakura Version: 0.0.1, Beta build")
      loadstring(game:HttpGet("https://raw.githubusercontent.com/yza9000/sakuracilent/main/bedwar"))()
 else
       player:Kick("Unsupported Game Detected ! ( Error Code:-000 )")

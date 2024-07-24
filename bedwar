@@ -20,3 +20,7 @@ StarterGui:SetCore("SendNotification", {
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/yza9000/sakuracilent/main/watermark-mobile"))()
 --WM
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/yza9000/sakuracilent/main/saklib"))()
+
+--saklib V1
